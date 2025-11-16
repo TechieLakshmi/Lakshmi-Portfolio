@@ -172,7 +172,7 @@ nav {
     background-image: url("https://cdn-icons-png.flaticon.com/512/2965/2965567.png"); /* Patient Information System icon */
 }
 
-.project-card:nth-child(2)::before {
+.project-card:nth-child(1)::before {
     background-image: url("https://cdn-icons-png.flaticon.com/512/2920/2920322.png"); /* Fraud Detection icon */
 }
 
@@ -207,6 +207,7 @@ footer {
     text-align: center;
     margin-top: 40px;
 }
+
 
 
 
