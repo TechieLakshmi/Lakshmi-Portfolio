@@ -184,7 +184,7 @@ nav {
     background-image: url("https://cdn-icons-png.flaticon.com/512/2965/2965563.png"); /* Virus / COVID-19 icon */
 }
 
-.project-card:nth-child(4)::before {
+.project-card:nth-child(5)::before {
     background-image: url("https://cdn-icons-png.flaticon.com/512/3064/3064197.png"); /* Data extraction / file icon */
 }
 
@@ -207,4 +207,5 @@ footer {
     text-align: center;
     margin-top: 40px;
 }
+
 
