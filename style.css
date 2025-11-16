@@ -168,7 +168,7 @@ nav {
 }
 
 /* Custom icon per project */
-.project-card:nth-child(1)::before {
+.project-card:nth-child(2)::before {
     background-image: url("https://cdn-icons-png.flaticon.com/512/2965/2965567.png"); /* Patient Information System icon */
 }
 
@@ -181,7 +181,7 @@ nav {
 }
 
 .project-card:nth-child(4)::before {
-    background-image: url("https://cdn-icons-png.flaticon.com/512/2965/2965563.png"); /* Virus / COVID-19 icon */
+    background-image: url("https://cdn-icons-png.flaticon.com/512/2965/2965566.png"); /* COVID-19 / virus forecast icon */
 }
 
 .project-card:nth-child(5)::before {
@@ -207,5 +207,6 @@ footer {
     text-align: center;
     margin-top: 40px;
 }
+
 
 
