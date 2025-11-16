@@ -169,15 +169,23 @@ nav {
 
 /* Custom icon per project */
 .project-card:nth-child(1)::before {
-    background-image: url("https://cdn-icons-png.flaticon.com/512/2910/2910768.png"); /* Fraud icon */
+    background-image: url("https://cdn-icons-png.flaticon.com/512/2965/2965567.png"); /* Patient Information System icon */
 }
 
 .project-card:nth-child(2)::before {
-    background-image: url("https://cdn-icons-png.flaticon.com/512/1828/1828843.png"); /* Churn icon */
+    background-image: url("https://cdn-icons-png.flaticon.com/512/2920/2920322.png"); /* Fraud Detection icon */
 }
 
 .project-card:nth-child(3)::before {
-    background-image: url("https://cdn-icons-png.flaticon.com/512/2721/2721290.png"); /* NLP icon */
+    background-image: url("https://cdn-icons-png.flaticon.com/512/2811/2811273.png"); /* News / Article icon */
+}
+
+.project-card:nth-child(4)::before {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/2965/2965563.png"); /* Virus / COVID-19 icon */
+}
+
+.project-card:nth-child(4)::before {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/3064/3064197.png"); /* Data extraction / file icon */
 }
 
 /* ========== CONTACT ========== */
@@ -199,3 +207,4 @@ footer {
     text-align: center;
     margin-top: 40px;
 }
+
