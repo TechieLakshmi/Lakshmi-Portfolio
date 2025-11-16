@@ -22,4 +22,22 @@ nav { width: 90%; margin: auto; display: flex; justify-content: space-between; a
 
 
 .timeline { display:grid; gap:20px; }
-footer { background:#000; color:white; padding:15px; text-align:center; margin-top: 40px; }
+footer { background:#000; color:white; padding:20px; text-align:center; margin-top: 40px; }
+
+
+/* Project Icons */
+.project-icon {
+width: 60px;
+height: 60px;
+margin-bottom: 15px;
+}
+
+
+/* Professional Theme Enhancements */
+body {
+background: #eef1f7;
+}
+.section h2 {
+font-size: 2.2rem;
+font-weight: 700;
+}
